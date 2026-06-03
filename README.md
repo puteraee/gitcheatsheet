@@ -1,6 +1,6 @@
 <a name="TOP"></a>
 
-![Git Cheatsheet](https://placehold.co/1000x100/transparent/999?text=Markdown%20Cheatsheet&font=source-sans-pro)
+![Git Cheatsheet](https://placehold.co/1000x100/transparent/999?text=Git%20Cheatsheet&font=source-sans-pro)
 
 ## 📌 The Core Workflow (The Daily Loop)
 
